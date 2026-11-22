@@ -15,7 +15,7 @@ React • Node.js • MongoDB • Flutter • Firebase
 🔥 Working with **Firebase & Firestore**
 🌱 Currently learning **AI/ML Integration**
 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/ayeshat1088/)**
-🚀 Portfolio: **[View Here](https://ayesha-tasneem.netlify.app)**
+🚀 Portfolio: **[View Here]https://ayesha-tasneem.netlify.app
 📍 Gujranwala, Pakistan
 
 ---
