@@ -1,3 +1,11 @@
+# Hi 👋, I'm Ayesha Tasneem
+
+**Full Stack Developer | MERN Stack | Flutter Developer**
+
+React • Node.js • MongoDB • Flutter • Firebase
+
+---
+
 ## 👩‍💻 About Me
 
 - 🎓 CS Student @ University of the Punjab
