@@ -1,22 +1,13 @@
-# Hi 👋, I'm Ayesha Tasneem
+## 👩‍💻 About Me
 
-**Full Stack Developer | MERN Stack | Flutter Developer**
-React • Node.js • MongoDB • Flutter • Firebase
-
-<!-- Typing SVG -->
-
----
-
-### 👩‍💻 About Me
-
-🎓 CS Student @ University of the Punjab
-💻 Specializing in **MERN Stack** Web Development
-📱 Currently building **Flutter Mobile Applications**
-🔥 Working with **Firebase & Firestore**
-🌱 Currently learning **AI/ML Integration**
-📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/ayeshat1088/)**
-🚀 Portfolio: **[View Here]https://ayesha-tasneem.netlify.app
-📍 Gujranwala, Pakistan
+- 🎓 CS Student @ University of the Punjab
+- 💻 Specializing in **MERN Stack** Web Development
+- 📱 Currently building **Flutter Mobile Applications**
+- 🔥 Working with **Firebase & Firestore**
+- 🌱 Currently learning **AI/ML Integration**
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ayeshat1088/)
+- 🚀 Portfolio: [View here](https://ayesha-tasneem.netlify.app)
+- 📍 Gujranwala, Pakistan
 
 ---
 
